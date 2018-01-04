@@ -22,7 +22,7 @@ Dan Wan and Shu-chao Yang, <b>A Study on the Biological Evolutionary Analogy of 
 <br><i><font color="#3300ff">Studies in Dialectices of Nature</font></i>, 2011(5), pp.30-35. 
 ## TALKS
 Shu-chao Yang, <b>The Comparability of Semantic Incommensurability</b>, 
-<font color="#3300ff">Incommensurability 50,</font>National Taiwan University, June, 2012. 
+<#3300ff>Incommensurability 50,<font>National Taiwan University, June, 2012. 
 ## POPULAR READING MATTER
 杨述超主编，《头脑的魔鬼训练与思维狂欢》，
 <br><font color="#3300ff">天津人民出版社</font>，2011.
