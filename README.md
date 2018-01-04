@@ -1,11 +1,18 @@
-# yangsc2222.github.io
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+#ABOUT
+## BRIEF INTRODUCTION
 
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+## EDUCATION
+
+#PUBLICATION AND TALK
+
+##ACADEMY STUDY
+
+##TALK
+
+##POPULAR READING MATTER
+
+#CONTACT
+young.yangsc@foxmail.com
+
+
+##MORE INTERESTING
