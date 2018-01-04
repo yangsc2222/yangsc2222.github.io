@@ -1,6 +1,6 @@
 <head>This is Shuchao Yang's page. It is rebuilding now.</head>
 
-<content>
+
 # <font color="ff0000">Hi friend</font>
 
 <br>
@@ -43,4 +43,3 @@ young.yangsc@foxmail.com
 <center><br><b>@关于 这是杨述超的主页  <a href="http://yangshuchao.com">Young YANG's homepage</a></b></center>
 <center> <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1271680563'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1271680563%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script></center>
 
-</content>
