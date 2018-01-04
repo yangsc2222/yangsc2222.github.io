@@ -1,6 +1,6 @@
 This is Shuchao Yang's page. It is rebuilding now.
 
-# <p><font color="ff0000">Hi friend</font></p>
+# <font color="ff0000">Hi friend</font>
 
 <br>
 # ABOUT
