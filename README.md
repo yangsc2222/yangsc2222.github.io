@@ -1,8 +1,6 @@
 This is Shuchao Yang's page. It is rebuilding now.
 
-<head>
 <p><font color="ff0000"><font size=6><blink>Hi friend</blink></font></font></p>
-</head>
 
 <br>
 # ABOUT
@@ -35,7 +33,7 @@ Shu-chao Yang, <b>The Comparability of Semantic Incommensurability</b>,
 young.yangsc@foxmail.com
 <br>
 
-<center><a href="http://mydatas.yangshuchao.com/"><font size="5"><b>GET MORE</b></font></b></a><br><img src="mypic/panda web.jpg" height="350" width="500"></center>
+<center><a href="http://mydatas.yangshuchao.com/"><font size="5"><b>GET MORE</b></font></a><br><img src="mypic/panda web.jpg" height="350" width="500"></center>
 <br>
 <br>
  
