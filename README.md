@@ -41,9 +41,9 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
   
   
 # CONTACT
-<html><hr color="cccccc">
-young.yangsc@foxmail.com
-<br></html>
+<hr color="cccccc">
+> young.yangsc@foxmail.com
+
 
 <html><center><a href="http://mydatas.yangshuchao.com/"><font size="5"><b>GET MORE</b></font><br><img src="mypic/panda web.jpg" height="350" width="500"></a></center>
 <br><br></html>
