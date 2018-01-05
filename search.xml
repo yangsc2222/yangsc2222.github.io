@@ -2,11 +2,11 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
     <InputEncoding>UTF-8</InputEncoding>
     <OutputEncoding>UTF-8</OutputEncoding>
-    <ShortName>yangshuchao —Ó ˆ≥¨</ShortName>
+    <ShortName>yangshuchao Êù®Ëø∞Ë∂Ö</ShortName>
     <Tags>yangshuchao</Tags>
     <Description>Description </Description>
-     <Image height="16" width="16" type="image/vnd.microsoft.icon">http://www.3qit.com/favicon.ico </Image>
-    <Url type="text/html" template="http://www.yangshuchao.com/search.php?keywords={—Ó ˆ≥¨} "/>
+     <Image height="16" width="16" type="mypic/logic.ico">http://www.yangshuchao.com </Image>
+    <Url type="text/html" template="http://www.yangshuchao.com/search.php?keywords={Êù®Ëø∞Ë∂Ö} "/>
     <AdultContent>false</AdultContent>
     <Developer>zol Ltd. Team</Developer>
 </OpenSearchDescription>
