@@ -35,7 +35,7 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
    Shu-chao Yang, **The Comparability of Semantic Incommensurability**,<br><font color="3300ff">Incommensurability 50,</font>National Taiwan University, June, 2012.  
 
 ## POPULAR READING MATTER
-   杨述超主编,《头脑的魔鬼训练与思维狂欢》,<br><font color="3300ff">天津人民出版社</font>,2011.
+   杨述超主编,《头脑的魔鬼训练与思维狂欢》,<br><font color="3300ff">天津人民出版社</font>, 2011.
    
 # CONTACT
 <hr color="ff0000">
