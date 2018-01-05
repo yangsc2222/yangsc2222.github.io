@@ -20,6 +20,8 @@ He is also keen on the popularization of science and philosophy in China.
 ## EDUCATION
   
 He obtained his master's degree in philosophy of science from <b><a href="http://www.hunnu.edu.cn/"><font color="3300ff">Hunan Normal University</font></a></b>, China.
+   
+   
 He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hzau.edu.cn/"><font color="3300ff">Huazhong   Agriculture University</font></a></b>, China.
    
     
