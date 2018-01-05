@@ -16,25 +16,30 @@ He is a member of the The Cantonian Association of Logic.
 <br>
 He is also keen on the popularization of science and philosophy in China.
 </html>
+  
 ## EDUCATION
 <html>
 He obtained his master's degree in philosophy of science from <b><a href="http://www.hunnu.edu.cn/"><font color="3300ff">Hunan Normal University</font></a></b>, China.
 He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hzau.edu.cn/"><font color="3300ff">Huazhong   Agriculture University</font></a></b>, China.
 <br>
-</html>
+</html>  
+
 # PUBLICATION & TALK
-<html><hr color="cccccc"></html>
+<hr color="cccccc">
 ## ACADEMIC RESEARCH
 <html>Dan Wan and Shu-chao Yang, <b>A Study on the Biological Evolutionary Analogy of the Model of Scientific Development</b>, 
-<br><i><font color="#3300ff">Studies in Dialectices of Nature</font></i>, 2011(5), pp.30-35. </html>
+<br><i><font color="#3300ff">Studies in Dialectices of Nature</font></i>, 2011(5), pp.30-35. </html>  
+
 ## TALKS
 <html>Shu-chao Yang, <b>The Comparability of Semantic Incommensurability</b>, 
-<font color="3300ff">Incommensurability 50,</font>National Taiwan University, June, 2012. </html>
+<font color="3300ff">Incommensurability 50,</font>National Taiwan University, June, 2012. </html>  
+
 ## POPULAR READING MATTER
 <html>杨述超主编，《头脑的魔鬼训练与思维狂欢》，
 <br><font color="#3300ff">天津人民出版社</font>，2011.
 <br></html>
-
+  
+  
 # CONTACT
 <html><hr color="cccccc">
 young.yangsc@foxmail.com
