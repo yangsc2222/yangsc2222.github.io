@@ -29,16 +29,13 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 # PUBLICATION & TALK
 <hr color="cccccc">
 ## ACADEMIC RESEARCH
-   Dan Wan and Shu-chao Yang, <b>A Study on the Biological Evolutionary Analogy of the Model of Scientific Development</b>, 
-<br><i><font color=#3300ff>Studies in Dialectices of Nature</font></i>, 2011(5), pp.30-35.   
+   Dan Wan and Shu-chao Yang, <b>A Study on the Biological Evolutionary Analogy of the Model of Scientific Development</b>, <br><i><font color=#3300ff>Studies in Dialectices of Nature</font></i>, 2011(5), pp.30-35.   
 
 ## TALKS
-   Shu-chao Yang, **The Comparability of Semantic Incommensurability**, 
-   <font color=#3300ff>Incommensurability 50,</font>National Taiwan University, June, 2012.  
+   Shu-chao Yang, **The Comparability of Semantic Incommensurability**,<br><font color="3300ff">Incommensurability 50,</font>National Taiwan University, June, 2012.  
 
 ## POPULAR READING MATTER
-   杨述超主编,《头脑的魔鬼训练与思维狂欢》,
-   <font color="3300ff">天津人民出版社</font>,2011.
+   杨述超主编,《头脑的魔鬼训练与思维狂欢》,<br><font color="3300ff">天津人民出版社</font>,2011.
    
 # CONTACT
 <hr color="ff0000">
