@@ -41,7 +41,7 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 <font color=#3300ff>天津人民出版社</font>，2011.
    
 # CONTACT
-<hr color=#cccccc>
+<hr color="ff0000">
   young.yangsc@foxmail.com
 
 
