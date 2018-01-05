@@ -33,12 +33,12 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 <br><i><font color="#3300ff">Studies in Dialectices of Nature</font></i>, 2011(5), pp.30-35.   
 
 ## TALKS
-   Shu-chao Yang, <b>The Comparability of Semantic Incommensurability</b>, 
-<font color="3300ff">Incommensurability 50,</font>National Taiwan University, June, 2012.   
+   Shu-chao Yang, **The Comparability of Semantic Incommensurability**, 
+   <font color="3300ff">Incommensurability 50,</font>National Taiwan University, June, 2012.   
 
 ## POPULAR READING MATTER
    杨述超主编，《头脑的魔鬼训练与思维狂欢》，
-<font color="#3300ff">天津人民出版社</font>，2011.
+<font color="#3300ff">天津人民出版社，2011.
    
   
   
