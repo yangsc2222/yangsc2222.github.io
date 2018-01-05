@@ -38,7 +38,7 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 
 ## POPULAR READING MATTER
    杨述超主编，《头脑的魔鬼训练与思维狂欢》，
-   <font color="#3300ff">天津人民出版社</font>，2011.
+<font color="#3300ff">天津人民出版社</font>，2011.
    
   
   
