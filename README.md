@@ -52,7 +52,7 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 <br/><br/>
 
 ## ACADEMIC TRENDING IN CHINA
-[I would like to introduce the Chinese academic of these years to the world. If you have some ideas, you can contact with me in follow email.(This part is still building.)<br/><img src="mypic/清明上河图.jpg">](http://cnki.net/)  
+[I would like to introduce the Chinese academic of these years to the world. If you have some ideas, you can contact with me in follow email.(This part is still building.)<br/><img src="mypic/清明上河图.jpg">](http://academic.yangshuchao.com/)  
 
 <br/><br/>
     
