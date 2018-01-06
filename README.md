@@ -45,11 +45,9 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 # GET MORE
 <hr color="ff0000">
 
-<a href="http://mydatas.yangshuchao.com/"><font size="5"><b>SOME INTERESTING CASES</b></font><br></a><br/>
 
 [SOME INTERESTING CASES](http://mydatas.yangshuchao.com/)
 
-<a href="http://cnki.net/"><font size="5"><b>ACADEMIC TRENDING IN CHINA</b></font><br><img src="mypic/清明上河图.jpg"></a><br/>
     
 [ACADEMIC TRENDING IN CHINA<img src="mypic/清明上河图.jpg">](http://cnki.net/"><font size="5")
     
