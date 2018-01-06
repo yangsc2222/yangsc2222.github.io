@@ -45,9 +45,10 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
   young.yangsc@foxmail.com
 
 
-   <center><a href="http://mydatas.yangshuchao.com/"><font size="5"><b>SOME INTERESTING CASES</b></font><br><img src="mypic/panda web.jpg" height="350" width="500"></a></center>
+   <center><a href="http://mydatas.yangshuchao.com/"><font size="5"><b>SOME INTERESTING CASES</b></font><img src="mypic/panda web.jpg" height="210" width="300"></a></center>
    
- 
+    <center><a href="http://chineseacademic.yangshuchao.com/"><font size="5"><b>ACADEMIC TRENDING IN CHINA</b></font><img src="mypic/panda web.jpg" height="210" width="300"></a></center>
+    
    <center> SOME LINKS: <a href="http://chenww.com/">Weiwei CHEN</a><br></center>
 <hr color="cccccc">
    
