@@ -48,15 +48,11 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 
 
    <center><a href="http://cnki.net/"><font size="5"><b>ACADEMIC TRENDING IN CHINA</b></font><img src="mypic/panda web.jpg" height="210" width="300"></a></center><br/>
-   
-   
-   <br/><br/><br/>
-     
+    
+   <br/>
    <center> SOME LINKS: <a href="http://chenww.com/">Weiwei CHEN</a><br></center>
-<hr color="cccccc">
-   
-              
+<hr color="cccccc">   
            
-  <center><br><b>@关于 这是杨述超的主页  <a href="http://yangshuchao.com">Young YANG's homepage</a></b></center>
+  <center><b>@关于 这是杨述超的主页  <a href="http://yangshuchao.com">Young YANG's homepage</a></b></center>
 <center> <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1271680563'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1271680563%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script></center>   
 
