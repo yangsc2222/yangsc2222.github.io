@@ -49,7 +49,7 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 [SOME INTERESTING CASES](http://mydatas.yangshuchao.com/)
 
     
-[ACADEMIC TRENDING IN CHINA<img src="mypic/清明上河图.jpg">](http://cnki.net/"><font size="5")
+[ACADEMIC TRENDING IN CHINA<img src="mypic/清明上河图.jpg">](http://cnki.net/")
     
     
 SOME LINKS: <a href="http://chenww.com/">Weiwei CHEN</a><br>
