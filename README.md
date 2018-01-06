@@ -3,9 +3,9 @@
 
 This is Shuchao Yang's page. It is rebuilding now.
 
-
 # <font color="ff0000">Hi friend</font>
 
+<img src="mypic/mypic350500.jpg" height="500" width="350">
 
 # ABOUT
 <hr color="cccccc"> 
