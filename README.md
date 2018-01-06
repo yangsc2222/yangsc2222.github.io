@@ -52,13 +52,13 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 <br/><br/>
 
 ## ACADEMIC TRENDING IN CHINA
-[I would like to share my view about the Chinese academic recent.(br/)<img src="mypic/清明上河图.jpg">](http://cnki.net/)  
+[I would like to share my view about the Chinese academic recent.<br/><img src="mypic/清明上河图.jpg">](http://cnki.net/)  
 
 <br/><br/>
     
-SOME LINKS: <a href="http://chenww.com/">Weiwei CHEN</a><br>
+SOME LINKS: <a href="http://chenww.com/">Weiwei CHEN</a>
 
-
+<br/><br/>
 
 # CONTACT
 <hr color="ff0000">
