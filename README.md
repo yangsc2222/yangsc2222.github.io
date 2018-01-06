@@ -32,27 +32,26 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 # PUBLICATION & TALK
 <hr color="cccccc">
 ## ACADEMIC RESEARCH
-   Dan Wan and Shu-chao Yang, <b>A Study on the Biological Evolutionary Analogy of the Model of Scientific Development</b>, <br><font color="3300ff"><i>Studies in Dialectices of Nature</i></font>, 2011(5), pp.30-35.   
+· Dan Wan and Shu-chao Yang, <b>A Study on the Biological Evolutionary Analogy of the Model of Scientific Development</b>, <br><font color="3300ff"><i>Studies in Dialectices of Nature</i></font>, 2011(5), pp.30-35. 
 
 ## TALKS
-   Shu-chao Yang, **The Comparability of Semantic Incommensurability**,<br><font color="3300ff">Incommensurability 50,</font>National Taiwan University, June, 2012.  
+· Shu-chao Yang, **The Comparability of Semantic Incommensurability**,<br><font color="3300ff">Incommensurability 50,</font>National Taiwan University, June, 2012.  
 
 ## POPULAR READING MATTER
-   杨述超主编,《头脑的魔鬼训练与思维狂欢》,<br><font color="3300ff">天津人民出版社</font>, 2011.
+· 杨述超主编,《头脑的魔鬼训练与思维狂欢》,<br><font color="3300ff">天津人民出版社</font>, 2011.
    
 
 
 # GET MORE
 <hr color="ff0000">
 
-<font color=red size=6 face=“黑体”>字体颜色</font>
-  
-<a href="http://mydatas.yangshuchao.com/"><font color=red size=6 face=“黑体”><b>SOME INTERESTING CASES</b></font><br><img src="mypic/清明上河图.jpg"></a><br/>
+<a href="http://mydatas.yangshuchao.com/"><font size=6><b>SOME INTERESTING CASES</b></font><br><img src="mypic/清明上河图.jpg"></a><br/>
 
-<a href="http://cnki.net/"><font size="5" color=#0000ff><b>ACADEMIC TRENDING IN CHINA</b></font><br><img src="mypic/清明上河图.jpg"></a><br/>
+<a href="http://cnki.net/"><font size="5"><b>ACADEMIC TRENDING IN CHINA</b></font><br><img src="mypic/清明上河图.jpg"></a><br/>
     
 SOME LINKS: <a href="http://chenww.com/">Weiwei CHEN</a><br>
-<img src="mypic/清明上河图.jpg">
+
+```
 
 # CONTACT
 <hr color="ff0000">
