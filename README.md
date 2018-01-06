@@ -45,13 +45,13 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 # GET MORE
 <hr color="ff0000">
 
-<a href="http://mydatas.yangshuchao.com/"><font size=6><b>SOME INTERESTING CASES</b></font><br><img src="mypic/清明上河图.jpg"></a><br/>
+<a href="http://mydatas.yangshuchao.com/"><font size=“5”><b>SOME INTERESTING CASES</b></font><br><img src="mypic/清明上河图.jpg"></a><br/>
 
 <a href="http://cnki.net/"><font size="5"><b>ACADEMIC TRENDING IN CHINA</b></font><br><img src="mypic/清明上河图.jpg"></a><br/>
     
 SOME LINKS: <a href="http://chenww.com/">Weiwei CHEN</a><br>
 
-```
+
 
 # CONTACT
 <hr color="ff0000">
