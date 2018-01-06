@@ -1,11 +1,7 @@
 # Shuchao Yang's homepage
-
 <link title="杨述超" rel="search"  type="application/opensearchdescription+xml"  href="README.MD" />  
-
-This is Shuchao Yang's page. It is rebuilding now.
-
+This page is rebuilding now, the founder would like to listen to your advice, you can give a email to [young.yangsc@foxmail.com].
 # <font color="ff0000">Hi friend</font>
-
 <img src="mypic/mypic350500.jpg" height="500" width="350">
 
 # ABOUT
