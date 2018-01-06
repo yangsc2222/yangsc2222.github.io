@@ -50,7 +50,7 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 <a href="http://cnki.net/"><font size="5" color=#0000ff><b>ACADEMIC TRENDING IN CHINA</b></font><br><img src="mypic/清明上河图.jpg"></a><br/>
     
 SOME LINKS: <a href="http://chenww.com/">Weiwei CHEN</a><br>
-
+<img src="mypic/清明上河图.jpg">
 
 # CONTACT
 <hr color="ff0000">
