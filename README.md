@@ -46,10 +46,11 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 <hr color="ff0000">
 
 
-[SOME INTERESTING CASES](http://mydatas.yangshuchao.com/)
+## SOME INTERESTING CASES
+[I am interested in case study in recent time. I would like to share the interesting cases I got from the internet. ...](http://mydatas.yangshuchao.com/)
 
     
-[ACADEMIC TRENDING IN CHINA<img src="mypic/清明上河图.jpg">](http://cnki.net/")
+[ACADEMIC TRENDING IN CHINA<img src="mypic/清明上河图.jpg">](http://cnki.net/)
     
     
 SOME LINKS: <a href="http://chenww.com/">Weiwei CHEN</a><br>
