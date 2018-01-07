@@ -1,8 +1,10 @@
 # Shuchao Yang's homepage
 <img src="mypic/清明上河图.jpg">
 
-<link title="杨述超" rel="search"  type="application/opensearchdescription+xml"  href="README.MD" />  
-This page is rebuilding now. If you have any problem, you can give a email to `young.yangsc@foxmail.com`.
+<title>杨述超<title/>
+<meta name="keywords" content="杨述超,yangshuchao,argumentation”/>
+<meta name="description" content="杨述超的个人主页,yangshuchao's homepage”/>
+
 # <font color="ff0000">Hi friend</font>
 <img src="mypic/mypic350500.jpg" height="500" width="350">
 
