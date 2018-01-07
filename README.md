@@ -1,6 +1,8 @@
 # Shuchao Yang's homepage
+<img src="mypic/清明上河图.jpg">
+
 <link title="杨述超" rel="search"  type="application/opensearchdescription+xml"  href="README.MD" />  
-This page is rebuilding now, the founder would like to listen to your advice, you can give a email to [young.yangsc@foxmail.com].
+This page is rebuilding now. If you have any problem, you can give a email to `young.yangsc@foxmail.com`.
 # <font color="ff0000">Hi friend</font>
 <img src="mypic/mypic350500.jpg" height="500" width="350">
 
@@ -44,18 +46,18 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 
 
 ## SOME INTERESTING CASES
-[I am interested in case study in recent time. I would like to share the interesting cases I got from the internet. ...](http://mydatas.yangshuchao.com/)  
+* [I am interested in case study recently. I would like to share the interesting cases I got from the internet. ...](http://mydatas.yangshuchao.com/)   
 
 <br/><br/>
 
 ## ACADEMIC TRENDING IN CHINA
-* [I would like to introduce the Chinese academic of these years to the world. If you have some ideas, you can contact with me in follow email.(This part is still building.)<br/><img src="mypic/清明上河图.jpg">](http://academic.yangshuchao.com/)  
+* [I would like to introduce the Chinese academic studies of argumentation, fallacy, rhetoric, philosophy, pragmatic, linguistic and some other humanities in these years to the world. If you have some ideas, you can contact with me in follow email. We are glad if you will write some topics. (This part is still building and will keep updating.)<br/>](http://academic.yangshuchao.com/)  
   
-* [You can also consult the biggest from the biggest database of China, China National Knowledge Internet(CNKI). (Click here for more.)](http://cnki.net/)
+* [You can also consult the biggest Chinese academic database China National Knowledge Internet(CNKI). (Click here for more.)](http://cnki.net/)
 
 <br/><br/>
     
-SOME LINKS: <a href="http://chenww.com/">Weiwei CHEN</a>
+Friendship links: <a href="http://chenww.com/">Weiwei CHEN</a>
 
 <br/><br/>
 
