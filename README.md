@@ -1,9 +1,9 @@
 # Shuchao Yang's homepage
 <img src="mypic/清明上河图.jpg">
 
-<title>杨述超</title>
-<meta name="keywords" content="杨述超,yangshuchao,argumentation”/>
-<meta name="description" content="杨述超的个人主页,yangshuchao's homepage”/>
+<title>杨述超</title>     
+<meta name="keywords" content="杨述超,yangshuchao,argumentation”/>     
+<meta name="description" content="杨述超的个人主页,yangshuchao's homepage”/>    
 
 
 # <font color="ff0000">Hi friend</font>
