@@ -46,27 +46,22 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 
 
 ## SOME INTERESTING CASES
-* [I am interested in case study recently. I would like to share the interesting cases I got from the internet. ...](http://mydatas.yangshuchao.com/)   
+* [I am interested in case study recently. I would like to share the interesting cases I got from the internet. ...(Click here for more.)](http://mydatas.yangshuchao.com/)   
 
 <br/><br/>
 
 ## ACADEMIC TRENDING IN CHINA
-* [I would like to introduce the Chinese academic studies of argumentation, fallacy, rhetoric, philosophy, pragmatic, linguistic and some other humanities in these years to the world. If you have some ideas, you can contact with me in follow email. We are glad if you will write some topics. (This part is still building and will keep updating.)<br/>](http://academic.yangshuchao.com/)  
+* [I would like to introduce the Chinese academic studies of argumentation, fallacy, rhetoric, philosophy, pragmatic, linguistic and some other humanities in these years to the world. If you have some ideas, you can contact with me in follow email. We are glad if you will write some topics. (This part is still building and will keep updating.)(Click here for more.)](http://academic.yangshuchao.com/)  
   
 * [You can also consult the biggest Chinese academic database China National Knowledge Internet(CNKI). (Click here for more.)](http://cnki.net/)
-
-<br/><br/>
-    
-Friendship links: <a href="http://chenww.com/">Weiwei CHEN</a>
-
-<br/><br/>
-
+<br/>
+ 
 # CONTACT
 <hr color="ff0000">
   young.yangsc@foxmail.com
   <br/><br/><br/><br/>
-  
 <hr color="ff0000">
+Friendship links: <a href="http://chenww.com/">Weiwei CHEN</a>
 <center><b>@关于 这是杨述超的主页  <a href="http://yangshuchao.com">Young YANG's homepage</a></b></center>
 <center> <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1271680563'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1271680563%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script></center>   
 
