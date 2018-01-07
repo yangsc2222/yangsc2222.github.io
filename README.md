@@ -46,7 +46,7 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 
 
 ## SOME INTERESTING CASES
-* [I am interested in case study recently. I would like to share the interesting cases I got from the internet. ...(Click here for more.)](http://mydatas.yangshuchao.com/)   
+* [I am interested in case study recently. I would like to share some interesting cases I got from the internet. ...(Click here for more.)](http://mydatas.yangshuchao.com/)   
 
 <br/><br/>
 
@@ -61,7 +61,7 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
   young.yangsc@foxmail.com
   <br/><br/><br/><br/>
 <hr color="ff0000">
-Friendship links: <a href="http://chenww.com/">Weiwei CHEN</a>
+<center>Friendship links: <a href="http://chenww.com/">Weiwei CHEN</a></center>
 <center><b>@关于 这是杨述超的主页  <a href="http://yangshuchao.com">Young YANG's homepage</a></b></center>
 <center> <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1271680563'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1271680563%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script></center>   
 
