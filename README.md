@@ -55,10 +55,9 @@ I would like to introduce the studies of  philosophy, argumentation, fallacy, rh
 * **Studies of Chinese history<#z0002>**
 * **the database "China National Knowledge Internet(CNKI)"<#z9999>**
   
- 
-  
+ <hr color="cccccc"> 
 <span id="z0001"/>    
-* [Studies of philosophy and argumentation in China. (Click here for more.)](http://academic.yangshuchao.com/)  
+* [Studies of philosophy and argumentation in China. (Click here for more.)](http://philosophy.yangshuchao.com/)  
    
 <span id="z0002"/>   
 * Studies of Chinese history   
