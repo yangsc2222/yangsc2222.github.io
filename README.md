@@ -48,10 +48,11 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 
 <br/><br/>
 
-## ACADEMIC TRENDING IN CHINA
-I would like to introduce the studies of  philosophy, argumentation, fallacy, rhetoric,pragmatic, linguistic, culture, history and some other humanities in China in these years to the world. If you have some ideas, you can contact with me in follow email. We are glad if you will write some topics. (This part is still building and will keep updating.)
+## STUDIES OF HUMANITIES IN CHINA
+I would like to introduce the studies of  philosophy, argumentation, fallacy, rhetoric,pragmatic, linguistic, culture, history and some other humanities in China in these years to the world.    
+If you want know something about my country, you can tell me to the email in follow, I would like to write something about that on my page and share to anybody who like them. Also, if you will write some topics, We are very appreciated. (This part will keep updating.)
  
-### TOPICS  
+**TOPIC LIST**  
  <hr color="cccccc">   
    
 <span id="z0001"/>    
@@ -65,7 +66,7 @@ It is in the plan.
 * [**China National Knowledge Internet(CNKI)** <br> You can also consult the biggest Chinese academic database China National Knowledge Internet(CNKI). (Click here for more.)](http://cnki.net/)
 <br/>
  
-Some other topics, if you want know something about my country, you can tell me to the email in follow, I would like to write something about that on my page and share to anybody who like them.  
+...
  
 # CONTACT
 <hr color="ff0000">
