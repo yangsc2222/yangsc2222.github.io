@@ -44,23 +44,23 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 
 
 ## SOME INTERESTING CASES
-* [I am interested in case study recently. I would like to share some interesting cases I got from the internet. ...(Click here for more.)](http://mydatas.yangshuchao.com/)   
+* [I am interested in case study recently. I would like to share some interesting cases I got from the internet. ...(Click here for more.)](http://cases.yangshuchao.com/)   
 
 <br/><br/>
 
 ## ACADEMIC TRENDING IN CHINA
 I would like to introduce the studies of  philosophy, argumentation, fallacy, rhetoric,pragmatic, linguistic, culture, history and some other humanities in China in these years to the world. If you have some ideas, you can contact with me in follow email. We are glad if you will write some topics. (This part is still building and will keep updating.)
   
-* **Studies of philosophy and argumentation in China<#z0001>**   
-* **Studies of Chinese history<#z0002>**
-* **the database "China National Knowledge Internet(CNKI)"<#z9999>**
+* **[Studies of philosophy and argumentation in China](#z0001)**   
+* **[Chinese culture<#z0002](#z0002)**
+* **[the database "China National Knowledge Internet(CNKI)"](#z9999)**
   
  <hr color="cccccc"> 
 <span id="z0001"/>    
 * [Studies of philosophy and argumentation in China. (Click here for more.)](http://philosophy.yangshuchao.com/)  
    
 <span id="z0002"/>   
-* Studies of Chinese history   
+* Chinese culture   
 It is in the plan.  
   
 <span id="z9999"/>
