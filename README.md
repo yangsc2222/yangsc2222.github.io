@@ -49,8 +49,8 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 <br/><br/>
 
 ## STUDIES OF HUMANITIES IN CHINA
-**About**
-A I and my friends feel, many foreigners want konw the studies of humanities in China. As most studies are written in Chinese, it is very hard for the communication between Chinese and the other people. So, I and my friends would like to introduce the studies of  philosophy, argumentation, fallacy, rhetoric,pragmatic, linguistic, culture, history and some other humanities in China in these years to the world.     
+**About**    
+As I and my friends feel, many foreigners want konw the studies of humanities in China. As most studies are written in Chinese, it is very hard for the communication between Chinese and the other people. So, I and my friends would like to introduce the studies of  philosophy, argumentation, fallacy, rhetoric,pragmatic, linguistic, culture, history and some other humanities in China in these years to the world.     
 If you want know something about my country, you can tell us by email, we would like to build a some pages fot them. If you want write some topics, just give us email, we are very happy for that.
  
 **TOPIC LIST** (This part will keep updating.)
