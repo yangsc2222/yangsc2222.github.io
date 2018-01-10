@@ -57,14 +57,14 @@ I would like to introduce the studies of  philosophy, argumentation, fallacy, rh
   
  <hr color="cccccc"> 
 <span id="z0001"/>    
-* [Studies of philosophy and argumentation in China. (Click here for more.)](http://philosophy.yangshuchao.com/)  
+* [**Studies of philosophy and argumentation in China**. (Click here for more.)](http://philosophy.yangshuchao.com/)  
    
 <span id="z0002"/>   
-* Chinese culture   
+* **Chinese culture**     
 It is in the plan.  
   
 <span id="z9999"/>
-* [You can also consult the biggest Chinese academic database China National Knowledge Internet(CNKI). (Click here for more.)](http://cnki.net/)
+* [**China National Knowledge Internet(CNKI)** (br/) You can also consult the biggest Chinese academic database China National Knowledge Internet(CNKI). (Click here for more.)](http://cnki.net/)
 <br/>
  
 Some other topics, if you want know something about my country, you can tell me to the email in follow, I would like to write something about that on my page and share to anybody who like them.  
