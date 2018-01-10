@@ -50,7 +50,8 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 
 ## ACADEMIC TRENDING IN CHINA
 I would like to introduce the studies of  philosophy, argumentation, fallacy, rhetoric,pragmatic, linguistic, culture, history and some other humanities in China in these years to the world. If you have some ideas, you can contact with me in follow email. We are glad if you will write some topics. (This part is still building and will keep updating.)
-  
+ 
+### The contents 
 * **[Studies of philosophy and argumentation in China](#z0001)**   
 * **[Chinese culture](#z0002)**
 * **[the database "China National Knowledge Internet(CNKI)"](#z9999)**
