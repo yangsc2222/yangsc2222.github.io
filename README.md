@@ -64,7 +64,7 @@ I would like to introduce the studies of  philosophy, argumentation, fallacy, rh
 It is in the plan.  
   
 <span id="z9999"/>
-* [**China National Knowledge Internet(CNKI)** (br) You can also consult the biggest Chinese academic database China National Knowledge Internet(CNKI). (Click here for more.)](http://cnki.net/)
+* [**China National Knowledge Internet(CNKI)** <br> You can also consult the biggest Chinese academic database China National Knowledge Internet(CNKI). (Click here for more.)](http://cnki.net/)
 <br/>
  
 Some other topics, if you want know something about my country, you can tell me to the email in follow, I would like to write something about that on my page and share to anybody who like them.  
