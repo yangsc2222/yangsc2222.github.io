@@ -47,20 +47,7 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 * [I am interested in case study recently. I would like to share some interesting cases I got from the internet. ...(Click here for more.)](http://cases.yangshuchao.com/)   
 
 <br/><br/>
-
-## STUDIES OF HUMANITIES IN CHINA
-**About**    
-As I and my friends feel, many foreigners want konw the studies of humanities in China, but most studies are written in Chinese, it is very hard for the communication. So, I and my friends would like to introduce the studies of  philosophy, argumentation, fallacy, rhetoric,pragmatic, linguistic, culture, history and some other humanities in China in these years to the world. If you want know something about my country, you can tell us by email, we would like to build some more pages fot them. If you want write some topics, just give us email, we are very happy for that.
  
-**TOPIC LIST** (This part will keep updating.)
- <hr color="cccccc">   
-   
-<span id="z0001"/>    
-* [**Studies of philosophy and argumentation in China**. (Click here for more.)](http://philosophy.yangshuchao.com/)  
-   
-<span id="z0002"/>   
-* **Chinese culture**     
-It is in the plan.  
   
 <span id="z9999"/>
 * [**China National Knowledge Internet(CNKI)** <br> You can also consult the biggest Chinese academic database China National Knowledge Internet(CNKI). (Click here for more.)](http://cnki.net/)
