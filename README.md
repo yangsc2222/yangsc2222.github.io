@@ -10,7 +10,9 @@
 
 This is <b>Shu-chao YANG's</b>  homepage. He would like to be called <b>Young YANG</b> also. Shu-chao is a Ph.D. candidate at <b><a href="http://logic.sysu.edu.cn/"><font color="3300ff">Institute of Logic and Cognition (ILC)</font> </a></b>and Department of Philosophy, <b><a href="http://www.sysu.edu.cn/2012/cn/index.htm"><font color="3300ff">Sun Yat-sen University</font></a></b>, China.
    
-Shu-chao's research falls in interdisciplinary areas such as argumentation theory, study of fallacy, philosophy of language and philosophy of science. Now his research has been to get a better understanding of fallacy from the rhetoric perspective.
+Shu-chao's research falls in main two areas. The First is about argumentation theory, mainly about informal logic, dialectic, rhetoric, general argumentation theory and some interdisciplinary research such as ethnomethodology and conversation analysis. The second is the area that may be called analytic philosophy, mainly about philosophy of science, epistemology, philosophy of mind and philosophy of language. Also, I am interested in some classical area of philosophy, such as ethics and political philosophy.
+
+Thomas Kuhn and Ludwig Wittgenstein's works are my favorite reandings. I nearly agreed with every word of *The Structure of Scientific Revolutionary* (except the chapter 13) and *Philosophical Investigation*. Also, David Hume, Willard Van Orman Quine, Stephen Toulmin, Chaim Perelman, David Zarefsky, Jean Jacques Rousseau, Lao-zi, Charles Darwin and many other contributed thinkers should be deeply respected by me.   
    
 He is a member of the The Cantonian Association of Logic.
    
