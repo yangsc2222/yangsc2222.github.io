@@ -45,16 +45,14 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 
 
 ## SOME INTERESTING CASES
-* [I am interested in case study recently. I would like to share some interesting cases I got from the internet. ...(Click here for more.)](http://cases.yangshuchao.com/)   
+* I am interested in case study recently. I would like to share some interesting cases I got from the internet. [Click here for more.](http://cases.yangshuchao.com/)  
 
 <br/><br/>
  
-  
-<span id="z9999"/>
-* [**China National Knowledge Internet(CNKI)** <br> You can also consult my studies on China National Knowledge Internet(CNKI). (Click here for more.)](http://cnki.net/)
+You can also consult my studies on China National Knowledge Internet(CNKI). [Click here for more.](http://cnki.net/)
 <br/>
  
-...
+
  
 # CONTACT
 <hr color="ff0000">
