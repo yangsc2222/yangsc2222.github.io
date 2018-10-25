@@ -42,7 +42,6 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 
 
 # GET MORE
-<hr color="ff0000">
 
 
 ## SOME INTERESTING CASES
@@ -52,7 +51,7 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
  
   
 <span id="z9999"/>
-* [**China National Knowledge Internet(CNKI)** <br> You can also consult the biggest Chinese academic database China National Knowledge Internet(CNKI). (Click here for more.)](http://cnki.net/)
+* [**China National Knowledge Internet(CNKI)** <br> You can also consult my studies on China National Knowledge Internet(CNKI). (Click here for more.)](http://cnki.net/)
 <br/>
  
 ...
