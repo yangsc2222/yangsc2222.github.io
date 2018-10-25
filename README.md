@@ -22,12 +22,9 @@ He is also keen on the popularization of science and philosophy in China.
 ## EDUCATION
   
 He obtained his master's degree in philosophy of science from <b><a href="http://www.hunnu.edu.cn/"><font color="3300ff">Hunan Normal University</font></a></b>, China.
-   
-   
+      
 He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hzau.edu.cn/"><font color="3300ff">Huazhong   Agriculture University</font></a></b>, China.
-   
-    
-
+       
 # PUBLICATION & TALK
 <hr color="cccccc">
 ## ACADEMIC RESEARCH
@@ -39,21 +36,13 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 ## POPULAR READING MATTER
 * 杨述超主编,《头脑的魔鬼训练与思维狂欢》,<br><font color="3300ff">天津人民出版社</font>, 2011.
    
-
-
 # GET MORE
-
-
 ## SOME INTERESTING CASES
 * I am interested in case study recently. I would like to share some interesting cases I got from the internet. [Click here for more.](http://cases.yangshuchao.com/)  
-
-<br/><br/>
  
-You can also consult my studies on China National Knowledge Internet(CNKI). [Click here for more.](http://cnki.net/)
+* You can also consult my studies on China National Knowledge Internet(CNKI). [Click here for more.](http://cnki.net/)
 <br/>
- 
-
- 
+  
 # CONTACT
 <hr color="ff0000">
   young.yangsc@foxmail.com
