@@ -1,4 +1,3 @@
-G# Shuchao Yang's homepage
 <img src="mypic/清明上河图.jpg">
 
 # <font color="ff0000">Hi friend</font>
