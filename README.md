@@ -10,10 +10,8 @@ G# Shuchao Yang's homepage
 
 This is <b>Shu-chao YANG's</b>  homepage. He would like to be called <b>Young YANG</b> also. Shu-chao is a Ph.D. candidate at <b><a href="http://logic.sysu.edu.cn/"><font color="3300ff">Institute of Logic and Cognition (ILC)</font> </a></b>and Department of Philosophy, <b><a href="http://www.sysu.edu.cn/2012/cn/index.htm"><font color="3300ff">Sun Yat-sen University</font></a></b>, Guangzhou, China.
    
-Shu-chao's research mainly falls into two areas. The first is about argumentation theory, mainly about informal logic, dialectic, rhetoric, general argumentation theory and some interdisciplinary research such as ethnomethodology and conversation analysis. The second is the area that may be called analytic philosophy, mainly about philosophy of science, epistemology, philosophy of mind and philosophy of language. Also, I am interested in some classical area of philosophy, such as ethics and political philosophy.
+Shu-chao's research mainly falls into two areas. The first is about argumentation theory, mainly about informal logic, dialectic, rhetoric, general argumentation theory and some interdisciplinary research such as ethnomethodology and conversation analysis. The second is mainly about philosophy of science and philosophy of language. Also, I am interested in some classical area of philosophy, such as ethics and political philosophy.
 
-Thomas Kuhn and Ludwig Wittgenstein's works are my favorite reandings. I nearly agree with the every word of *The Structure of Scientific Revolutionary* (except the chapter 13) and *Philosophical Investigation*. Also, David Hume, Willard Van Orman Quine, Stephen Toulmin, Chaim Perelman, David Zarefsky, Harold Garfinkel, Jean Jacques Rousseau, Lao-zi, Charles Darwin, Ernst Mayr and many other contributed thinkers should be deeply respected by me.   
-   
 He is a member of the The Cantonian Association of Logic.
    
 He is also keen on the popularization of science and philosophy in China.
