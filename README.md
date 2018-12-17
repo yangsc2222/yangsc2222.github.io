@@ -9,7 +9,7 @@
 
 This is <b>Shu-chao YANG's</b>  homepage. He would like to be called <b>Young YANG</b> also. Shu-chao is a Ph.D. candidate at <b><a href="http://logic.sysu.edu.cn/"><font color="3300ff">Institute of Logic and Cognition (ILC)</font> </a></b>and Department of Philosophy, <b><a href="http://www.sysu.edu.cn/2012/cn/index.htm"><font color="3300ff">Sun Yat-sen University</font></a></b>, Guangzhou, China.
    
-Shu-chao's research mainly falls into two areas. The first is about argumentation theory, mainly about informal logic, dialectic, rhetoric, general argumentation theory and some interdisciplinary research such as ethnomethodology and conversation analysis. The second is mainly about philosophy of science and philosophy of language. Also, I am interested in some classical area of philosophy, such as ethics and political philosophy.
+ Shu-chao's research mainly falls into two interdisciplinary research. The first is about argumentation theory from the perspective of ethnomethodology and conversation analysis. The second is mainly about philosophy of science. 
 
 He is a member of the The Cantonian Association of Logic.
    
