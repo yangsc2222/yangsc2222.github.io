@@ -25,6 +25,8 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 # PUBLICATION & TALK
 <hr color="cccccc">
 ## ACADEMIC RESEARCH
+* Shu-chao YANG and Yan-jin CHEN, **Approaches to the Study of Fallacies**, forthcoming. 
+
 * Dan WAN and Shu-chao YANG, **A Study on the Biological Evolutionary Analogy of the Model of Scientific Development**,  *Studies in Dialectices of Nature*, 2011(5), pp.30-35. 
 
 ## TALKS
