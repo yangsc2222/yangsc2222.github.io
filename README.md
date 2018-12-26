@@ -1,7 +1,7 @@
 <img src="mypic/清明上河图.jpg">
 <p align="left"> 
 <h2><b><font color="ff0000">Hi friend</font></b></h2>
-<br><br>
+<br>
 <img src="mypic/mypic350500.jpg" height="500" width="350">
 
 <h1>ABOUT</h1>
