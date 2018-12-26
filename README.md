@@ -1,6 +1,7 @@
 <img src="mypic/清明上河图.jpg">
 <p align="left"> 
-<b><font color="ff0000">Hi friend</font></b>
+<h2><b><font color="ff0000">Hi friend</font></b></h2>
+<br><br>
 <img src="mypic/mypic350500.jpg" height="500" width="350">
 
 <h1>ABOUT</h1>
@@ -14,7 +15,7 @@ Shu-chao's research mainly falls into interdisciplinary areas, such as argumenta
 He is a member of the The Cantonian Association of Logic.
 <br>
 He is also keen on the popularization of science and philosophy in China.
-<br>   
+<br> <br>
   
 <h2>EDUCATION</h2>
   
