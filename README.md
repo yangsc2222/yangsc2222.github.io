@@ -1,5 +1,5 @@
 <img src="mypic/清明上河图.jpg">
-
+<p align="left">
 # <font color="ff0000">Hi friend</font>
 <img src="mypic/mypic350500.jpg" height="500" width="350">
 
@@ -25,12 +25,12 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 # PUBLICATION & TALK
 <hr color="cccccc">
 ## ACADEMIC RESEARCH
-* Shu-chao YANG and Yan-jin CHEN, <b>"Approaches to the Study of Fallacies"</b>, forthcoming. 
+* Shu-chao YANG and Yan-jin CHEN, <b>Approaches to the Study of Fallacies</b>, forthcoming. 
 
-* Dan WAN and Shu-chao YANG, <b>"A Study on the Biological Evolutionary Analogy of the Model of Scientific Development"</b>,  *Studies in Dialectices of Nature*, 2011(5), pp.30-35. 
+* Dan WAN and Shu-chao YANG, "<b>A Study on the Biological Evolutionary Analogy of the Model of Scientific Development</b>",  <i>Studies in Dialectices of Nature</i>, 2011(5), pp.30-35. 
 
 ## TALKS
-* Shu-chao YANG, "The Comparability of Semantic Incommensurability",<b>Incommensurability 50,</b>National Taiwan University, June, 2012.  
+* Shu-chao YANG, "The Comparability of Semantic Incommensurability",<b>Incommensurability 50</b>, National Taiwan University, June, 2012.  
 
 ## POPULAR READING MATTER
 * 杨述超主编,《头脑的魔鬼训练与思维狂欢》,<b>天津人民出版社</b>, 2011.
@@ -46,6 +46,8 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
   young.yangsc@foxmail.com
   <br/><br/><br/><br/>
 <hr color="ff0000">
+</p>
+   
 <center>Friendship links: <a href="http://chenww.com/">Weiwei CHEN</a></center>
 <center><b> @all rights reserved   <a href="http://yangshuchao.com">这是杨述超的主页 Young YANG's homepage</a></b></center>
 <center><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1271680563'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1271680563%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script></center>   
