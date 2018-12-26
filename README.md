@@ -36,9 +36,9 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 * 杨述超主编,《头脑的魔鬼训练与思维狂欢》,<br><font color="3300ff">天津人民出版社</font>, 2011.
    
 # GET MORE
-* I am interested in case study recently. I would like to share some interesting cases I got from the internet. [Click here for more.](http://cases.yangshuchao.com/)  
+* I am interested in case study recently. I would like to share some interesting cases I got from the internet. <font color="3300ff">[Click here for more.](http://cases.yangshuchao.com/)[/font]  
  
-* You can also consult my studies on China National Knowledge Internet(CNKI). [Click here for more.](http://cnki.net/)
+* You can also consult my studies on China National Knowledge Internet(CNKI). <font color="3300ff">[Click here for more.](http://cnki.net/)[/font]
 <br/>
   
 # CONTACT
