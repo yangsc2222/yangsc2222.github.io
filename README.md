@@ -25,15 +25,15 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 # PUBLICATION & TALK
 <hr color="cccccc">
 ## ACADEMIC RESEARCH
-* Shu-chao YANG and Yan-jin CHEN, **Approaches to the Study of Fallacies**, forthcoming. 
+* Shu-chao YANG and Yan-jin CHEN, <b>"Approaches to the Study of Fallacies"</b>, forthcoming. 
 
-* Dan WAN and Shu-chao YANG, **A Study on the Biological Evolutionary Analogy of the Model of Scientific Development**,  *Studies in Dialectices of Nature*, 2011(5), pp.30-35. 
+* Dan WAN and Shu-chao YANG, <b>"A Study on the Biological Evolutionary Analogy of the Model of Scientific Development"</b>,  *Studies in Dialectices of Nature*, 2011(5), pp.30-35. 
 
 ## TALKS
-* Shu-chao YANG, **The Comparability of Semantic Incommensurability**,<br><font color="3300ff">Incommensurability 50,</font>National Taiwan University, June, 2012.  
+* Shu-chao YANG, "The Comparability of Semantic Incommensurability",<b>Incommensurability 50,</b>National Taiwan University, June, 2012.  
 
 ## POPULAR READING MATTER
-* 杨述超主编,《头脑的魔鬼训练与思维狂欢》,<br><font color="3300ff">天津人民出版社</font>, 2011.
+* 杨述超主编,《头脑的魔鬼训练与思维狂欢》,<b>天津人民出版社</b>, 2011.
    
 # GET MORE
 * I am interested in case study recently. I would like to share some interesting cases I got from the internet. <a href="http://cases.yangshuchao.com/"><font color="3300ff">Click here for more</font></a>.
