@@ -20,18 +20,18 @@ He is also keen on the popularization of science and philosophy in China.
 <h2>EDUCATION</h2>
   
 He obtained his master's degree in philosophy of science from <b><a href="http://www.hunnu.edu.cn/"><font color="3300ff">Hunan Normal University</font></a></b>, China.
-      
+<br>
 He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hzau.edu.cn/"><font color="3300ff">Huazhong   Agriculture University</font></a></b>, China.
 <br><br>
 <h1> PUBLICATION & TALK </h1>
 <hr color="cccccc">
 <h2> ACADEMIC RESEARCH </h2>
 Shu-chao YANG and Yan-jin CHEN, <b>Approaches to the Study of Fallacies</b>, forthcoming. 
-<br>
+<br><br>
 Dan WAN and Shu-chao YANG, <b>A Study on the Biological Evolutionary Analogy of the Model of Scientific Development</b>,  <i>Studies in Dialectices of Nature</i>, 2011(5), pp.30-35. 
 <br><br>
 <h2> TALKS </h2>
-Shu-chao YANG, "The Comparability of Semantic Incommensurability",<b>Incommensurability 50</b>, National Taiwan University, June, 2012. <br><br>
+Shu-chao YANG, "The Comparability of Semantic Incommensurability", <b>Incommensurability 50</b>, National Taiwan University, June, 2012. <br><br>
 <h2> POPULAR READING MATTER </h2>
 杨述超主编,《头脑的魔鬼训练与思维狂欢》,<b>天津人民出版社</b>, 2011.
 <br><br>
