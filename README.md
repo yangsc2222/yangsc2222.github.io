@@ -34,11 +34,11 @@ He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hza
 Shu-chao YANG and Yan-jin CHEN, <b>Approaches to the Study of Fallacies</b>, forthcoming. 
 <br>
 <br>
-Dan WAN and Shu-chao YANG, <b> A Study on the Biological Evolutionary Analogy of the Model of Scientific Development </b>,  <i> Studies in Dialectices of Nature </i>, 2011(5), pp.30-35. 
+Dan WAN and Shu-chao YANG, <b> A Study on the Biological Evolutionary Analogy of the Model of Scientific Development</b>,  <i>Studies in Dialectices of Nature</i>, 2011(5), pp.30-35. 
 <br>
 <br>
 <h2> TALKS </h2>
-Shu-chao YANG, "The Comparability of Semantic Incommensurability", <b> Incommensurability 50 </b>, National Taiwan University, June, 2012. 
+Shu-chao YANG, "The Comparability of Semantic Incommensurability", <font color="8a8a8a"> Incommensurability 50</font>, National Taiwan University, June, 2012. 
 <br>
 <br>
 <h2> POPULAR READING MATTER </h2>
