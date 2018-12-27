@@ -36,7 +36,7 @@ Shu-chao YANG, "The Comparability of Semantic Incommensurability", <b>Incommensu
 杨述超主编,《头脑的魔鬼训练与思维狂欢》,<b>天津人民出版社</b>, 2011.
 <br><br>
 <h1> GET MORE </h1>
-I am interested in case study recently. I would like to share some interesting cases I got from the internet. <a href="http://cases.yangshuchao.com/"><font color="3300ff">Click here for more</font></a>.
+I would like to share some interesting cases, most of them are from internet. <a href="http://cases.yangshuchao.com/"><font color="3300ff">Click here for more</font></a>.
 <br><br>
 You can also consult my studies on China National Knowledge Internet(CNKI). <a href="http://cnki.net/"><font color="3300ff">Click here for more</font></a>.
 
