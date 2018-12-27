@@ -1,4 +1,8 @@
-<html>
+<HTML>
+  <HEAD>
+    <TITLE>Shu-chao YANG's homepage</TITLE>
+  </HEAD>
+  <BODY>  
 <p align="left"> 
 <img src="mypic/清明上河图.jpg">
 <h2><b><font color="ff0000">Hi friend</font></b></h2>
@@ -54,9 +58,10 @@ young.yangsc@foxmail.com
 <br><br>
 <hr color="ff0000">
 </p>
+</BODY>
 <br>
 <br>
 <center>Friendship links: <a href="http://chenww.com/">Weiwei CHEN</a></center>
 <center><b> @all rights reserved   <a href="http://yangshuchao.com">这是杨述超的主页 Young YANG's homepage</a></b></center>
 <center><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1271680563'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1271680563%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script></center>   
-</html>
+</HTML>
