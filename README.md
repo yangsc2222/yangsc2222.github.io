@@ -1,6 +1,6 @@
 <HTML>
   <HEAD>
-    <TITLE>Shu-chao YANG's homepage</TITLE>
+    Shu-chao YANG's homepage
   </HEAD>
   <BODY>  
 <p align="left"> 
