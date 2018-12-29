@@ -1,8 +1,5 @@
 <HTML>
 
-  <HEAD>
-    Shu-chao YANG's homepage
-  </HEAD>
   <BODY>  
 <p align="left"> 
 <img src="mypic/清明上河图.jpg">
