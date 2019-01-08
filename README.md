@@ -44,7 +44,7 @@ Shu-chao YANG, <b>The Comparability of Methodological Incommensurability</b>, <f
 <br>
 <br>
 <h2> POPULAR READING MATTER </h2>
-杨述超主编，《聪明的大脑》，江西美术出版社，2013.
+杨述超主编, 《聪明的大脑》, 江西美术出版社, 2013.
 <br>
 <br>
 杨述超主编,《头脑的魔鬼训练与思维狂欢》,天津人民出版社, 2011.
