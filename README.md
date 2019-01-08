@@ -6,7 +6,6 @@
 <h2><b><font color="ff0000">Hi friend</font></b></h2>
 <img src="mypic/mypic350500.jpg" height="250" width="180">
 <h1>ABOUT</h1>
-<hr color="cccccc"> 
 <h2>BRIEF INTRODUCTION</h2>
 This is <b>Shu-chao YANG's</b>  homepage. Shu-chao is a Ph.D. candidate at <b><a href="http://logic.sysu.edu.cn/"><font color="3300ff">Institute of Logic and Cognition (ILC)</font> </a></b>and Department of Philosophy, <b><a href="http://www.sysu.edu.cn/2012/cn/index.htm"><font color="3300ff">Sun Yat-sen University</font></a></b>, Guangzhou, China.
 Shu-chao's research mainly falls into interdisciplinary areas, such as argumentation theory, philosophy of science and ethnomethodology. Recently, his research is mainly about the recovery of the field-and-culture-dependence of argumentation and knowledge.
@@ -21,7 +20,6 @@ He obtained his master's degree in philosophy of science from <b><a href="http:/
 He obtained his Bachelor's degree of agriculture from <b><a href="http://www.hzau.edu.cn/"><font color="3300ff">Huazhong   Agriculture University</font></a></b>, China.
 <br>
 <h1> PUBLICATION & TALK </h1>
-<hr color="cccccc">
 <h2> ACADEMIC RESEARCH </h2>
 Shu-chao YANG and Yan-jin CHEN, <b>Approaches to the Study of Fallacies</b>, forthcoming. 
 <br>
@@ -43,7 +41,6 @@ I would like to share some interesting cases, most of them are from internet. <a
 You can also consult my studies on China National Knowledge Internet(CNKI). <a href="http://cnki.net/"><font color="3300ff">Click here for more</font></a>.
 <br>
 <h1> CONTACT </h1>
-<hr color="ff0000">
 young.yangsc@foxmail.com
 <br>
 <hr color="ff0000">
