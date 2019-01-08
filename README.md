@@ -48,6 +48,6 @@ young.yangsc@foxmail.com
 </BODY>
 <br>
 <center>Friendship links: <a href="http://chenww.com/">Weiwei CHEN</a></center>
-<center><b> @all rights reserved   <a href="http://yangshuchao.com">这是杨述超的主页 Young YANG's homepage</a></b></center>
+<center><b> @all rights reserved   <a href="http://yangshuchao.com">这是杨述超的主页 Shuchao YANG's homepage</a></b></center>
 <center><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1271680563'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1271680563%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script></center>   
 </HTML>
