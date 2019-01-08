@@ -37,7 +37,8 @@ Dan WAN and Shu-chao YANG, <b> A Study on the Biological Evolutionary Analogy of
 <br>
 <h2> TALKS </h2>
 Shu-chao YANG, <b>The Comparability of Semantic Incommensurability</b>, <i><font color="8a8a8a"> Incommensurability 50</font></i>, National Taiwan University, June, 2012. 
-
+<br>
+<br>
 Shu-chao YANG, <b>The Comparability of Methodological Incommensurability</b>, <font color="8a8a8a">2011 Hunan Natural Dialectics Research Association Annual Meeting & 2011 Forum for Graduate Student of Philosophy of Science and Technology</font>, Changsha University of Science & Technology, February, 2011. 
 
 <br>
