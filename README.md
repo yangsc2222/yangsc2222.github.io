@@ -4,7 +4,7 @@
 <p align="left"> 
 <img src="mypic/清明上河图.jpg">
 <h2><b><font color="ff0000">Hi friend</font></b></h2>
-<img src="mypic/mypic350500.jpg" height="300" width="200">
+<img src="mypic/mypic350500.jpg" height="250" width="180">
 <h1>ABOUT</h1>
 <hr color="cccccc"> 
 <h2>BRIEF INTRODUCTION</h2>
