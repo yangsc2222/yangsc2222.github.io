@@ -4,7 +4,7 @@
 <p align="left"> 
 <img src="mypic/清明上河图.jpg">
 <h2><b><font color="ff0000">Hi friend</font></b></h2>
-<img src="mypic/mypic350500.jpg" height="300" width="200">
+<img src="mypic/mypic350500.jpg" height="300" width="220">
 <h1>ABOUT</h1>
 <h2>BRIEF INTRODUCTION</h2>
 This is <b>Shu-chao YANG's</b>  homepage. Shu-chao is a Ph.D. candidate at <b><a href="http://logic.sysu.edu.cn/"><font color="3300ff">Institute of Logic and Cognition (ILC)</font> </a></b>and Department of Philosophy, <b><a href="http://www.sysu.edu.cn/2012/cn/index.htm"><font color="3300ff">Sun Yat-sen University</font></a></b>, Guangzhou, China.
