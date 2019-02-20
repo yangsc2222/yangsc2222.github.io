@@ -8,7 +8,7 @@
 <h1>ABOUT</h1>
 <h2>BRIEF INTRODUCTION</h2>
 This is <b>Shu-chao YANG's</b>  homepage. Shu-chao is a Ph.D. candidate at <b><a href="http://logic.sysu.edu.cn/"><font color="3300ff">Institute of Logic and Cognition (ILC)</font> </a></b>and Department of Philosophy, <b><a href="http://www.sysu.edu.cn/2012/cn/index.htm"><font color="3300ff">Sun Yat-sen University</font></a></b>, Guangzhou, China.
-Shu-chao's research mainly falls into interdisciplinary areas, such as argumentation theory, philosophy of science and ethnomethodology. Recently, his research is mainly about the recovery of the field-and-culture-dependence of argumentation and knowledge.
+Shu-chao's research mainly falls into interdisciplinary areas, such as argumentation theory, philosophy of science and ethnomethodology. Recently, his research is mainly about the discussion of the field-and-culture-dependence of argumentation and knowledge.
 <br>
 He is also keen on the popularization of science and philosophy in China.
 <br>
